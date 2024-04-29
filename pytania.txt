@@ -1,4 +1,4 @@
-1. Rzucamy 2 razy kostką. Jeśli iloczyn obu liczb jest większy lub równy 25, 
+1. Rzucamy 2 razy kostką. Jeśli iloczyn obu liczb jest większy lub równy 24, 
 wybieramy jedną kulę z urny U1, w której są 4 kule niebieskie i 2 czerwone. 
 W przeciwnym razie wybieramy jedną kulę z urny U2, w której są 3 kule niebieskie 
 i 3 kule czerwone. Oblicz szansę na wybranie kuli niebieskiej.
