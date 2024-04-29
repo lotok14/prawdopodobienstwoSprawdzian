@@ -16,8 +16,8 @@ Oblicz P(A U B) oraz P(A' n B')
 wygranie gry. Łącznie zagrali 6 partii. Jakie jest prawdopodobieństwo wygrania 
 przez Antka co najmniej 5 partii?
 
-5. W urnie U1 jest 6 kuli białych i 4 kule czarne. W urnie U2 są 4 kule białe 
-i 8 kuli czarnych. Rzucamy jeden raz kością. Jeśli wynik jest podzielny 
+5. W urnie U1 jest 6 kuli białych i 4 kule niebieskie. W urnie U2 są 4 kule białe 
+i 8 kuli niebieskich. Rzucamy jeden raz kością. Jeśli wynik jest podzielny 
 przez trzy, wybieramy dwie kule bez zwracania z urny u1. W przeciwnym przypadku 
 wybieramy trzy kule bez zwracania z urny u2. Jaka jest szansa na to, 
 że wylosowane zostaną dokładnie 2 kule białe?
