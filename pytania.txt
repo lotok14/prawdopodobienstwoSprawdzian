@@ -1,14 +1,26 @@
-1. Rzucamy 2 razy kostką. Jeśli iloczyn obu liczb jest większy lub równy 25, wybieramy jedną kulę z urny U1, w której są 4 kule niebieskie i 2 czerwone. W przeciwnym razie wybieramy jedną kulę z urny U2, w której są 3 kule niebieskie i 3 kule czerwone. Oblicz szansę na wybranie kuli niebieskiej.
+1. Rzucamy 2 razy kostką. Jeśli iloczyn obu liczb jest większy lub równy 25, 
+wybieramy jedną kulę z urny U1, w której są 4 kule niebieskie i 2 czerwone. 
+W przeciwnym razie wybieramy jedną kulę z urny U2, w której są 3 kule niebieskie 
+i 3 kule czerwone. Oblicz szansę na wybranie kuli niebieskiej.
 
-2. Jest zbiór pięciu liczb {2, 3, 4, 5, 6}. Losowane są 2 liczby bez zwracania. Jaka jest szansa na to, że wylosowane zostaną dwie liczby parzyste, jeśli wiadomo, że suma wylosowanych liczb jest mniejsza niż 8?
+2. Jest zbiór pięciu liczb {2, 3, 4, 5, 6}. Losowane są 2 liczby bez zwracania. 
+Jaka jest szansa na to, że wylosowane zostaną dwie liczby parzyste, 
+jeśli wiadomo, że suma wylosowanych liczb jest mniejsza niż 8?
 
 3. P(A') = 7/11
 P(B) = 5/11
 P(A n B) = 2/11
 Oblicz P(A U B) oraz P(A' n B')
 
-4. Antek gra z bratem w szachy. Jest od niego slabszy, więc wygrywa 1/3 gier. Łącznie zagrali 6 partii. Jakie jest prawdopodobieństwo wygrania przez Antka co najmniej 5 partii?
+4. Antek gra z bratem w szachy. Jest od niego slabszy, więc wygrywa 1/3 gier. 
+Łącznie zagrali 6 partii. Jakie jest prawdopodobieństwo wygrania przez Antka 
+co najmniej 5 partii?
 
-5. W urnie U1 jest 6 kuli białych i 4 kule czarne. W urnie U2 są 4 kule białe i 8 kuli czarnych. Rzucamy jeden raz kością. Jeśli wynik jest podzielny przez trzy, wybieramy dwie kule bez zwracania z urny u1. W przeciwnym przypadku wybieramy trzy kule bez zwracania z urny u2. Jaka jest szansa na to, że wylosowane zostaną dokładnie 2 kule białe?
+5. W urnie U1 jest 6 kuli białych i 4 kule czarne. W urnie U2 są 4 kule białe 
+i 8 kuli czarnych. Rzucamy jeden raz kością. Jeśli wynik jest podzielny 
+przez trzy, wybieramy dwie kule bez zwracania z urny u1. W przeciwnym przypadku 
+wybieramy trzy kule bez zwracania z urny u2. Jaka jest szansa na to, 
+że wylosowane zostaną dokładnie 2 kule białe?
 
-6. W urnie jest n kuli, z czego 5 czarnych. Losujemy dwukrotnie bez zwracania po jednej kuli. Ile musi być kuli w urnie, żeby prawdopodobieństwo wylosowania dwóch kul czarnych było większe od 2/11
+6. W urnie jest n kuli, z czego 5 czarnych. Losujemy dwukrotnie bez zwracania po jednej kuli. 
+Ile musi być kuli w urnie, żeby prawdopodobieństwo wylosowania dwóch kul czarnych było większe od 2/11?
