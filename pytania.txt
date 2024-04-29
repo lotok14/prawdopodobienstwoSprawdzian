@@ -22,5 +22,5 @@ przez trzy, wybieramy dwie kule bez zwracania z urny u1. W przeciwnym przypadku
 wybieramy trzy kule bez zwracania z urny u2. Jaka jest szansa na to, 
 że wylosowane zostaną dokładnie 2 kule białe?
 
-6. W urnie jest n kuli, z czego 5 czarnych. Losujemy dwukrotnie bez zwracania po jednej kuli. 
-Ile musi być kuli w urnie, żeby prawdopodobieństwo wylosowania dwóch kul czarnych było większe od 2/11?
+6. W urnie jest n kuli, z czego 5 zielonych. Losujemy dwukrotnie bez zwracania po jednej kuli. 
+Ile musi być kuli w urnie, żeby prawdopodobieństwo wylosowania dwóch kul zielonych było większe od 2/11?
