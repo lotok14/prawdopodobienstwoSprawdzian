@@ -12,9 +12,9 @@ P(B) = 5/11
 P(A n B) = 2/11
 Oblicz P(A U B) oraz P(A' n B')
 
-4. Antek gra z bratem w szachy. Jest od niego slabszy, więc wygrywa 1/3 gier. 
-Łącznie zagrali 6 partii. Jakie jest prawdopodobieństwo wygrania przez Antka 
-co najmniej 5 partii?
+4. Antek gra z bratem w szachy. Jest od niego slabszy, więc ma 1/3 szans na 
+wygranie gry. Łącznie zagrali 6 partii. Jakie jest prawdopodobieństwo wygrania 
+przez Antka co najmniej 5 partii?
 
 5. W urnie U1 jest 6 kuli białych i 4 kule czarne. W urnie U2 są 4 kule białe 
 i 8 kuli czarnych. Rzucamy jeden raz kością. Jeśli wynik jest podzielny 
